@@ -4,7 +4,6 @@
 ### DevOps Engineer | Cloud Architect | Infrastructure & CI/CD Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishrao-loyapalli-84b8a6131)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harishrao1195@gmail.com)
 [![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-Available-00A86B?style=flat)](mailto:harishrao1195@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Hyderabad-1E90FF?style=flat)](https://maps.google.com/?q=Hyderabad)
 
@@ -143,27 +142,6 @@ Python and Bash scripts for infrastructure automation, deployment, and operation
 
 ## **Let's Connect**
 
-<div align="center">
 
-I'm actively exploring opportunities in **Cloud Infrastructure Leadership**, **DevOps Architecture**, and **Multi-Cloud Automation**.
-
-**Reach out for:**
-- AWS & GCP cloud infrastructure design and optimization
-- CI/CD pipeline design and implementation using GitHub Actions & Terraform
-- Kubernetes cluster setup, management, and scaling
-- Infrastructure automation and Infrastructure-as-Code consulting
-- Cloud security and compliance strategy
-- Observability and monitoring solutions
-
-[![Email](https://img.shields.io/badge/Email%20Me-harishrao1195@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishrao1195@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishrao-loyapalli-84b8a6131)
 
-</div>
-
----
-
-<div align="center">
-
-**Last Updated:** August 22, 2026 | Built with ❤️ for DevOps & Cloud Excellence
-
-</div>
