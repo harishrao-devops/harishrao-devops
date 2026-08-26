@@ -13,7 +13,7 @@
 
 ## **About Me**
 
-Experienced DevOps and Cloud Infrastructure Engineer specialized in designing and implementing scalable, secure cloud solutions across AWS and GCP. I architect enterprise-grade CI/CD pipelines, automate infrastructure provisioning, and optimize cloud operations for high performance and cost efficiency.
+Experienced DevOps and Cloud Infrastructure Engineer specialized in designing and implementing scalable, secure cloud solutions across AWS and GCP. I architect enterprise-grade CI/CD pipelines, automa[...]
 
 **Core Focus:**
 - ☁️ **Multi-Cloud Infrastructure:** AWS & GCP cloud architecture, VPC design, load balancing, and cost optimization
@@ -73,7 +73,7 @@ Experienced DevOps and Cloud Infrastructure Engineer specialized in designing an
 <td width="50%">
 
 ### **Infrastructure as Code**
-[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/harishrao-devops?tab=repositories&topic=terraform)
+[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/search?q=user%3Aharishrao-devops+topic%3Aterraform&type=repositories)
 
 Terraform modules and configurations for multi-cloud infrastructure provisioning on AWS and GCP.
 
@@ -83,7 +83,7 @@ Terraform modules and configurations for multi-cloud infrastructure provisioning
 <td width="50%">
 
 ### **CI/CD Pipelines**
-[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/harishrao-devops?tab=repositories&topic=cicd)
+[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/search?q=user%3Aharishrao-devops+topic%3Acicd&type=repositories)
 
 GitHub Actions and Jenkins pipeline implementations for automated builds, tests, and deployments.
 
@@ -95,7 +95,7 @@ GitHub Actions and Jenkins pipeline implementations for automated builds, tests,
 <td width="50%">
 
 ### **Kubernetes & Container Orchestration**
-[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/harishrao-devops?tab=repositories&topic=kubernetes)
+[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/search?q=user%3Aharishrao-devops+topic%3Akubernetes&type=repositories)
 
 Kubernetes manifests, Helm charts, and ArgoCD configurations for container orchestration.
 
@@ -105,7 +105,7 @@ Kubernetes manifests, Helm charts, and ArgoCD configurations for container orche
 <td width="50%">
 
 ### **Observability & Monitoring**
-[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/harishrao-devops?tab=repositories&topic=monitoring)
+[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/search?q=user%3Aharishrao-devops+topic%3Amonitoring&type=repositories)
 
 ELK Stack, Prometheus, and Grafana configurations for comprehensive observability solutions.
 
@@ -117,7 +117,7 @@ ELK Stack, Prometheus, and Grafana configurations for comprehensive observabilit
 <td width="50%">
 
 ### **Cloud Security & IAM**
-[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/harishrao-devops?tab=repositories&topic=security)
+[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/search?q=user%3Aharishrao-devops+topic%3Asecurity&type=repositories)
 
 Security best practices, IAM policies, and cloud compliance implementations.
 
@@ -127,7 +127,7 @@ Security best practices, IAM policies, and cloud compliance implementations.
 <td width="50%">
 
 ### **Automation Scripts**
-[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/harishrao-devops?tab=repositories&topic=automation)
+[![GitHub](https://img.shields.io/badge/View%20Repos-181717?style=flat&logo=github)](https://github.com/search?q=user%3Aharishrao-devops+topic%3Aautomation&type=repositories)
 
 Python and Bash scripts for infrastructure automation, deployment, and operational tasks.
 
