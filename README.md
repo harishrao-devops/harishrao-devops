@@ -13,7 +13,7 @@
 
 ## **About Me**
 
-Experienced DevOps and Cloud Infrastructure Engineer specialized in designing and implementing scalable, secure cloud solutions across AWS and GCP. I architect enterprise-grade CI/CD pipelines, automa[...]
+Experienced DevOps and Cloud Infrastructure Engineer specialized in designing and implementing scalable, secure cloud solutions across AWS and GCP. I architect enterprise-grade CI/CD pipelines, infrastructure and application automation, Monitoring applications and does cost optimization.
 
 **Core Focus:**
 - ☁️ **Multi-Cloud Infrastructure:** AWS & GCP cloud architecture, VPC design, load balancing, and cost optimization
